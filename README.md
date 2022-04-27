@@ -13,7 +13,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-orange?style=flat&logo=Amazon%20AWS&logoColor=White)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=Microsoft%20Azure&logoColor=white)
 
-## Tools:
+## Tools 🛠:
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=Ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-623Ce4?style=flat&logo=Terraform&logoColor=white)
@@ -23,12 +23,12 @@
 ![MONGODB](https://img.shields.io/badge/-MONGODB-4479A1?style=flat&logo=MONGODB&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-green)
 
-## Languages and IDEs:
+## Languages <img src="https://user-images.githubusercontent.com/98178943/165534513-ac8a6cb4-4927-4d7b-81a7-f2556c509c30.png" width="25"> and IDEs <img src="https://user-images.githubusercontent.com/98178943/165534766-32b1e73c-d697-4e0f-9dc2-55c55be76d16.png" width="25">:
 [![Ruby](https://badgen.net/badge/icon/ruby?icon=ruby&label)](https://https://ruby-lang.org/)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow)
 ![Microsoft VisualStudio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=Visual%20Studio&logoColor=white)
 
-# Frameworks and Methodologies:
+## Frameworks and Methodologies:
 ![Agile](https://img.shields.io/badge/-Agile-2496ED?style=flat&logo=Agile&logoColor=white)
 ![Kanban](https://img.shields.io/badge/-Kanban-blue)
 ![Scrum](https://img.shields.io/badge/-Scrum-2496ED?style=flat&logo=Scrum&logoColor=white)
