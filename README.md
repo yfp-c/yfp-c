@@ -1,6 +1,6 @@
 # Hello there! <img src="https://user-images.githubusercontent.com/98178943/165523541-bfc60f30-d652-408b-9994-7202c732d386.png" width="50"> 👋
 
-### Welcome to my github! I am a Biochemistry 🧪 student from the University of Essex, currently training to become a DevOps <img src="https://user-images.githubusercontent.com/98178943/165525730-d2d2b36f-5a0a-4df6-9814-030de8cbf0c1.png" width="35"> Consultant with Sparta Global! I am proficient in a variety of tools 🧰 and practices 👨‍🏫 including:
+### Welcome to my github! I am proficient in a variety of tools 🧰 and practices 👨‍🏫 including:
 
 ## Operating systems 🖥:
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)
